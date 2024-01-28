@@ -67,8 +67,4 @@ Ensure your API keys and sensitive data are secured and not exposed publicly.
 ## Contributing
 Feel free to fork, modify, and submit pull requests to enhance the functionalities.
 
-## License
-[Specify the License]
 
-## Contact Information
-For queries or feedback, please contact [Your Contact Information].
